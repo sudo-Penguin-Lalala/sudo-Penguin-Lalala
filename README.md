@@ -1,61 +1,62 @@
-# Hi, I'm Thiểng (Thiện)! 🌟
+# Hi, I'm NNT! 🚀
 
-**Welcome to my space on the internet!**
-
----
-
-## 🔨 About Me
-- **Name**: Thiểng (or Thện if you prefer the casual Central vibes!)
-- **Tech Enthusiast**: I consider myself a **Linux nerd** — especially when it comes to Ubuntu. Dual/triple boot setups are my jam!
-- **Current Setup**: Dual booting Windows and macOS via OpenCore. Planning to add **Linux Mint** into the mix ✨.
-- **Gamer**: I play games with a **rush-forward** strategy. Titles like **CS2** and **GTA 5** are my go-to.
-- **Tech I Use**:
-   - **Laptop**: Asus FX506LH (thinking of switching to MacBook Air M2 2022).
-   - **Phone**: Samsung Galaxy A6 2018.
-   - **Mouse**: Asus TUF M4.
-- **Listening Vibes**: Knock2's music keeps me going, especially **'Dashstar\*'**. Always tweaking my **PulseEffects** to get that *'cháy'* sound.
+**Welcome to my little corner of the internet!**
 
 ---
 
-## 🚀 What I'm Into
-- **Operating Systems**: From Ubuntu tinkering to exploring Hackintosh setups.
-- **Gaming**: I enjoy optimizing my setup for performance in **CS2** and **GTA Online**.
-- **Audio**: Big fan of tech like **Dolby Atmos** (looking for open-source options).
-- **Productivity**: Finding efficient software for video editing (CapCut-like but free).
-- **Minimalism**: Always on the lookout for lightweight tools and systems (like **FydeOS** or **Batocera**).
+## 🔧 About Me
+- **Name**: NNT
+- **Tech Enthusiast**: Love messing with **Linux**, especially **Ubuntu**.
+- **Current Setup**: Dual-booting **Windows** & **macOS (OpenCore)**, planning to add **Linux Mint**.
+- **Gamer**: Play with a **rush-forward** style—mostly **CS2** & **GTA 5**.
+- **Gear**:
+  - **Laptop**: Asus FX506LH (considering a MacBook Air M2 2022).
+  - **Phone**: Samsung Galaxy A6 2018.
+  - **Mouse**: Asus TUF M4.
+- **Music**: Knock2’s **'Dashstar\*'** on repeat, tweaking **PulseEffects** for the best sound.
 
 ---
 
-## 📚 Fun Facts
-- I like typing **'zị'** instead of **'vị'** just for the laughs 😂.
-- I avoid playing games immediately after release. I usually wait **4 months** to buy them.
-- Memes? My favorite is the *"everybody knows"* format.
-- I’m particular about my fonts: **Oswald Bold 700** is top-tier.
-- Podcasts? I prefer funny ones but nothing about cooking, please!
-- **Stationery**: Comparing **Lamy** pens with **Thiên Long TL-05** because why not?
+## ⚡ Interests
+- **Operating Systems**: Linux tweaking, Hackintosh setups, and OpenCore bootloader.
+- **Gaming**: Optimizing FPS and performance for smooth gameplay.
+- **Audio Tech**: Looking for the best **open-source Dolby Atmos alternative**.
+- **Software**: Finding lightweight, efficient tools for gaming & productivity.
+- **Minimalism**: Prefers fast, clutter-free setups (FydeOS, Batocera, etc.).
 
 ---
 
-## 🛠️ My Current Projects
-1. Optimizing Linux display settings: making **mirror mode** work with mismatched resolutions.
-2. Exploring new overlay tools for gaming streams (similar to PlayClaw).
-3. Experimenting with **OpenCore triple-booting** setups (Windows + macOS + Linux Mint).
-4. Turning my **ThinkPad** into a Hackintosh machine 🌐.
+## 📌 Fun Facts
+- **Typing style?** I say **'zị'** instead of **'vị'** just for fun 😂.
+- **Gaming Strategy?** Never buy games at launch—always wait **4 months**.
+- **Favorite Meme?** The *"everybody knows"* format.
+- **Fonts?** Obsessed with **Oswald Bold 700**.
+- **Podcasts?** Only funny ones, no cooking talk!
+- **Stationery?** Comparing **Lamy** pens vs. **Thiên Long TL-05** for no reason.
 
 ---
 
-## 🛡 Tools & Tech I Use
-- **Operating Systems**: Windows 11, Ubuntu, macOS.
-- **Hardware**: Dual monitors (1366x768 + 1600x900).
-- **Tech Utilities**:
-   - **eDEX-UI** (stored in `/opt` because why not?).
-   - Managing **swap files** (`swap.img`) efficiently.
+## 🛠 Current Projects
+1. **Linux Display Tweaks**: Fixing **mirror mode** on mismatched resolutions.
+2. **Overlay Tools**: Finding an alternative to **PlayClaw** for gaming.
+3. **Triple Boot Setup**: Windows + macOS + Linux Mint with OpenCore.
+4. **ThinkPad Hackintosh**: Turning an old laptop into a macOS machine.
 
 ---
 
-## 🌏 Get in Touch
-Feel free to connect with me if you're into Linux, gaming setups, or just want to share some laughs about **'zị'**!
+## 🏆 My Setup & Tools
+- **OS**: Windows 11, Ubuntu, macOS.
+- **Displays**: Dual monitors (1366x768 + 1600x900).
+- **Utilities**:
+  - **eDEX-UI** (because it looks cool in `/opt`).
+  - **Swap management** for optimized performance.
 
 ---
 
-❤️ **Thanks for stopping by!**
+## 🌍 Connect with Me
+If you're into Linux, gaming setups, or just want to chat about **'zị'**, hit me up!
+
+---
+
+❤️ **Thanks for dropping by!**
+
